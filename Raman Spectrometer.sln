@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Raman Spectrometer", "Raman Spectrometer\Raman Spectrometer.pyproj", "{3988311E-7C69-4E47-A95B-B14F6B842FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3988311E-7C69-4E47-A95B-B14F6B842FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3988311E-7C69-4E47-A95B-B14F6B842FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C099912-D47B-4971-B830-1199B164630E}
+	EndGlobalSection
+EndGlobal
